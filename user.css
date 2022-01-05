@@ -1,0 +1,80 @@
+.main-home-homeHeader {
+    background-color: unset !important;
+}
+
+.main-buddyFeed-activityMetadata .main-buddyFeed-usernameAndTimestamp {
+    color: unset !important;
+}
+
+.x-searchInput-searchInputInput {
+    border-radius: 10px !important;
+}
+
+.main-nowPlayingBar-container {
+    background-color: #ffffff !important;
+}
+
+.progress-bar {
+    --bg-color: #f0f3f6 !important;
+    --fg-color: #1bd760 !important;
+}
+
+.main-image-image .main-cardImage-image {
+    border-radius: 12px !important;
+}
+
+.mvRQWscG4lmAxOs4neBL, .main-nowPlayingBar-nowPlayingBar {
+    margin: 6px !important;
+}
+
+.main-coverSlotCollapsed-expandButton {
+    display: none !important;
+}
+
+input {
+    background-color: #E4E7EA !important;
+    color: #828282 !important;
+}
+
+#context-menu {
+    color: #000 !important;
+}
+
+
+.main-rootlist-rootlistDividerContainer {
+    display: none !important;
+}
+
+.os-scrollbar-track {
+    display: none !important;
+}
+
+.cover-art .cover-art-image {
+    border-radius: 10px;
+}
+
+.main-nowPlayingBar-container {
+    border-radius: 20px !important;
+}
+
+.Root__now-playing-bar {
+    width: unset !important;
+    margin: 0px 20px 20px 20px;
+}
+
+.main-buddyFeed-buddyFeed {
+    background-color: #E4E7EA !important;
+}
+
+.main-playPauseButton-button {
+    background-color: #1bd760 !important;
+    color: #000 !important;
+}
+
+.main-buddyFeed-activityMetadata .main-buddyFeed-playbackContextLink, .main-buddyFeed-activityMetadata .main-buddyFeed-username a, .main-buddyFeed-activityMetadata .main-buddyFeed-artistAndTrackName a {
+    color: #000 !important;
+}
+Root__now-playing-bar
+.main-navBar-navBarLink {
+    border-radius: 12px !important;
+}
